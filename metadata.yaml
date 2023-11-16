@@ -21,12 +21,17 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 72080-h/images/cover.jpg
 creator:
   author:
     agent_name: Jorgenson, Ivar
     gutenberg_agent_id: '56528'
     url: http://www.gutenberg.org/2009/agents/56528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72080#Ozymandias
 gutenberg_issued: '2023-11-09'
 identifiers:
   gutenberg: '72080'
